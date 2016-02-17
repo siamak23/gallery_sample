@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/siamak/Documents/git-projects/gallery_sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/siamak/Documents/git-projects/gallery_sample/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-52527ce1edad786909a71763f8230b33ac17db03.jar" />
+    </item>
+    <item
+        jar="/home/siamak/Documents/git-projects/gallery_sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/siamak/Documents/git-projects/gallery_sample/app/build/intermediates/pre-dexed/debug/classes-be10c4ecabfe056ae66975c40c33a9fe4e07f808.jar" />
+    </item>
+    <item
+        jar="/home/siamak/Documents/git-projects/gallery_sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/siamak/Documents/git-projects/gallery_sample/app/build/intermediates/pre-dexed/debug/classes-136a541e20fbbda05751ebd2618d5883200b1735.jar" />
+    </item>
+    <item
+        jar="/home/siamak/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/siamak/Documents/git-projects/gallery_sample/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-a5b9fe285177a1317f80d88cd7eb29d8119acccf.jar" />
+    </item>
+
+</items>
